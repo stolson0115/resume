@@ -17,6 +17,7 @@
 
 #ignore other 
 database.yml
+application.yml
 doc/
 *.swp
 *~
