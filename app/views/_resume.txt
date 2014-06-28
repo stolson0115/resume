@@ -1,27 +1,22 @@
 431 Klein Ave, Vallejo, CA, 94592 Cell: (415) 827-2515 Website: www.sethmile.com Email: seth@sethmile.com
 
 SETH OLSON
-OBJECTIVE
-
+OBJECTIVE Seeking an excellent company to enhance my skills on developing efficient, user
+friendly and wildly successful creative applications. I would also like to contribute to
+a brilliant technical team, help create new opportunities, and to work in a healthy
+environment.
 SKILLS
 
-Seeking an excellent company to enhance my skills on developing
-efficient, user friendly and wildly successful creative applications. I
-would also like to contribute to a brilliant technical team, help
-create new opportunities, and to work in a healthy environment.
 Programming
--Web: HTML5(2 years), CSS3(2 years), MySql(1 year), Javascript(4
-months), Ruby on Rails(4 months), MVC (4 months)
 -Core Languages: C(4 years), C++ (4 years), Java (4 years)
+-Web: HTML5(2 years), CSS3(2 years), MySql(1 year), Javascript(4 months), Ruby
+on Rails(4 months), MVC (4 months)
 
-EXPERIENCE
-
-EXAMPLES
-EDUCATION
-
--(Mutexes, Semaphores, Forks, Pipes, gcc and win32api, 4 months)
-CENTER FOR GREATER GOOD
+-Threads: (Mutexes, Semaphores, Forks, Pipes, gcc and win32api, 4 months)
+CENTER
+FOR GREATER GOOD
 MAY 2013, TO DECEMBER 2013
+EXPERIENCE
 Project Manager / Dev Part time – School Semester, full time - summer
 -Lead a team of three to design and develop www.centerforgreatergood.com, and
 http://institute.presidio.gov.
@@ -30,25 +25,27 @@ company contacts, and trained new employees and created software tutorials.
 CENTER FOR GREATER GOOD,
 MAY 2010, TO APRIL 2013
 Co-Lead R&D Part time – School Semester, full time - summer
-Researched funding leads on a continual basis to provide supplemental
-information for implementation of client projects regarding policies, health, low
-income housing, and social services. Created measurable outcomes combining
-research from scientific journals which led to the publication of The Good Life
-Guidebook for Impact Measurement found at:
-http://www.slideshare.net/CenterforGreaterGood/good-life-guidebook-by-centerfor-the-greater-good
--My research and publication helped secure $135 million dollars from top
-investors such as Google, Aegon, and Michaels developers to redevelop the
-Hawaii Kuhlo Par Terrace.
+Researched funding leads on a continual basis to provide supplemental information
+for implementation of client projects regarding policies, health, low income housing,
+and social services. Created measurable outcomes combining research from
+scientific journals which led to the publication of The Good Life Guidebook for
+Impact Measurement found at:
+http://www.slideshare.net/CenterforGreaterGood/good-life-guidebook-by-center-forthe-greater-good
+-My research and publication helped secure $135 million dollars from top investors
+such as Google, Aegon, and Michaels developers to redevelop the Hawaii Kuhlo Par
+Terrace.
 http://www.forbes.com/sites/gcaptain/2012/03/21/financing-the-greater-good
-Code: sethmile.com/projects Web: twitter.sethmile.com
-SAN FRANCISCO STATE UNIVERSITY, B.S. COMPUTER ENGINEERING
-Coursework in both Electrical Engineering, and Computer Science. Worked on a
-low power wireless heart rate monitor for senior project using blue-tooth api to
-pair with iPhone app and cloud service. http://thinhjb.com/bluetooth/
+Web: twitter.sethmile.com
+EXAMPLES Code: sethmile.com/projects
 
-REFERENCES
+EDUCATION SAN FRANCISCO STATE UNIVERSITY, B.S. COMPUTER ENGINEERING
+August 2011 to January 2014
+Coursework in both Electrical Engineering, and Computer Science. Worked on a low
+power wireless heart rate monitor for senior project using blue-tooth api to pair with
+iPhone app and cloud service. http://thinhjb.com/bluetooth/
+CITY COLLEGE OF SAN FRANCISCO, GENERAL EDUCATION, 2009-2012
 
--John Belluomini, CEO, Center for the Greater Good
+REFERENCES -John Belluomini, CEO, Center for the Greater Good
 -Corey Marshall, Director at Splunk4Good
 -Akif Malik, CEO Sports Colab, Abrix and Founder of Olympic Bid
 
