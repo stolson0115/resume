@@ -43,7 +43,7 @@ August 2011 to January 2014
 Coursework in both Electrical Engineering, and Computer Science. Worked on a low
 power wireless heart rate monitor for senior project using blue-tooth api to pair with
 iPhone app and cloud service. http://thinhjb.com/bluetooth/
-CITY COLLEGE OF SAN FRANCISCO, GENERAL EDUCATION, 2009-2012
+CITY COLLEGE OF SAN FRANCISCO, GENERAL EDUCATION, 2009-2011
 
 REFERENCES -John Belluomini, CEO, Center for the Greater Good
 -Corey Marshall, Director at Splunk4Good
