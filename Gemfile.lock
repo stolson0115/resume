@@ -58,7 +58,7 @@ GEM
     diff-lcs (1.2.5)
     dotenv (0.10.0)
     erubis (2.7.0)
-    excon (0.33.0)
+    excon (0.76.0)
     execjs (2.0.2)
     figaro (0.7.0)
       bundler (~> 1.0)
